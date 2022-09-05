@@ -2,9 +2,9 @@
 
 # Markdown
 
--Heading( # Heading,##Heading,######Heading)
+-Heading( #Heading, ##Heading, ######Heading)
 
--Bold(**Bold**,__Bold__)
+-Bold(**Bold**, __Bold__)
 
 -Itlaic(*Itlaic*, _Itlaic_)
 
@@ -23,9 +23,11 @@ print("Hello World")
 [Google](google.com)
 
 -list
+
 -list
 
 1.No List
+
 2.No list
 
 1. Nested List
