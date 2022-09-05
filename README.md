@@ -31,8 +31,9 @@ print("Hello World")
 2. No list
 
 1. Nested List
-   -Nested
-    -Nested
+   - Nested
+    - Nested
 
 [x] Task List
+
 [ ] Task List
