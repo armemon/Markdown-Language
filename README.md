@@ -16,7 +16,7 @@
 
 - `git status`
 
-```CODES
+- ```CODES
 print("Hello World")
 ```
 
