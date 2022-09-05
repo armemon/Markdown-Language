@@ -1,8 +1,8 @@
 # Markdown-Language
 
-#Markdown
+# Markdown
 
--Heading(#Heading,##Heading,######Heading)
+-Heading( # Heading,##Heading,######Heading)
 
 -Bold(**Bold**,__Bold__)
 
@@ -16,10 +16,9 @@
 
 - `git status`
 
-'''
-CODES
+```CODES
 print("Hello World")
-'''
+```
 
 [Google](google.com)
 
