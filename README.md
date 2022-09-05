@@ -39,7 +39,7 @@ print("Hello World")
              - Nested
                - Nes
                  - Nested
-            - Nested
+    - Nested
          - Nes
 
 - [x] Task List
