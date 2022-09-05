@@ -16,7 +16,7 @@
 
 - `git status`
 
-- ```CODES
+```CODES
 print("Hello World")
 ```
 
@@ -32,7 +32,9 @@ print("Hello World")
 
 1. Nested List
    - Nested
-    - Nested
+     - Nested
+       - Nested
+         - Nes
 
 [x] Task List
 
