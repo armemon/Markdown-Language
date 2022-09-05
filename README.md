@@ -22,17 +22,17 @@ print("Hello World")
 
 [Google](google.com)
 
--list
+- list
 
--list
+- list
 
-1.No List
+1. No List
 
-2.No list
+2. No list
 
 1. Nested List
    -Nested
     -Nested
 
--[x] Task List
--[ ] Task List
+[x] Task List
+[ ] Task List
